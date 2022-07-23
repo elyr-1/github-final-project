@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # elyrick
+   # Ely Rick Manlagnit (77GSI)
 
    # Input:
    # p, principal amount
